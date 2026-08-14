@@ -1,2 +1,1 @@
-# Active-Directory-Enterprise-Lab
-Hands-on enterprise Active Directory lab using Windows Server 2022 and Windows 11, covering AD DS, DNS, Group Policy, domain joining, user/group management, file sharing, permissions, and troubleshooting.
+Enterprise Active Directory lab featuring Windows Server 2022, AD DS, DNS, Group Policy, domain-joined clients, access control, and troubleshooting.
